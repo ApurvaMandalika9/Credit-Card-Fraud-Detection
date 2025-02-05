@@ -1,6 +1,7 @@
 # Credit-Card-Fraud-Detection
 
-📌 Fraud Detection Using Machine Learning & Tableau
+## 📌 Fraud Detection Using Machine Learning & Tableau 
+
 🚀 A machine learning-based fraud detection system with visualization in Tableau.
 
 
