@@ -24,4 +24,4 @@ Features Include:
 3. Location Data: lat, long, merch_lat, merch_long
 4. Fraud Label: is_fraud (0 = Legit, 1 = Fraud)
 
-📊 Tableau Dashboard - 
+📊 [Tableau Dashboard](https://public.tableau.com/app/profile/apurva.mandalika/viz/CreditCardFraudDetection_17387238679790/Dashboard1)
